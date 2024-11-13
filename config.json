@@ -5,5 +5,5 @@
     "folder_path": "./Zeugnisdruck",
     "temp_folder": "./temp",
 	"blacklist_file": "./blacklist.csv",
-	"timeout_minutes": 10
+	"timeout_minutes": 5
 }
