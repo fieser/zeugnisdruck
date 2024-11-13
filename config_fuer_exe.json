@@ -1,0 +1,97 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/dirk/PycharmProjects/zeugnisdruck/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/dirk/PycharmProjects/zeugnisdruck/venv/Lib/site-packages/pywin32_system32;pywin32_system32/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/dirk/PycharmProjects/zeugnisdruck/venv/Lib/site-packages/win32/win32security.pyd;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/dirk/PycharmProjects/zeugnisdruck/venv/Lib/site-packages/win32/win32print.pyd;."
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "__future__"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/dirk/PycharmProjects/zeugnisdruck/venv/Lib/site-packages/filelock;filelock/"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "asyncio"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}

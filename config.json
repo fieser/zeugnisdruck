@@ -1,0 +1,9 @@
+{
+    "printer_path": "\\\\srv01\\DR_B103_01_ZD",
+    "sumatra_path": "./SumatraPDF/SumatraPDF.exe",
+    "status_file_path": "./druckstatus.json",
+    "folder_path": "./Zeugnisdruck",
+    "temp_folder": "./temp",
+	"blacklist_file": "./blacklist.csv",
+	"timeout_minutes": 10
+}
